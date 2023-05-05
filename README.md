@@ -1,5 +1,6 @@
 # System of Behaviors
 
+https://github.com/melissarimsza/SystemofBehaviors/blob/main/SystemOfBehaviorsExampleVid.mov
 
 Try it yourself: Download/clone the repository and run it locally:
 ```bash
