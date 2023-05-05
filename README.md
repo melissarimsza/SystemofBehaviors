@@ -1,13 +1,14 @@
 # System of Behaviors
 
-https://github.com/melissarimsza/SystemofBehaviors/blob/main/SystemOfBehaviorsExampleVid.mov
 
-Try it yourself: Download/clone the repository and run it locally:
-```bash
-git clone https://github.com/melissarimsza/SystemofBehaviors.git
-Make a new 2D unity project
-Add the files to the assets folder
-Attach the script to the unity objects
-Run the simulation
-```
+https://user-images.githubusercontent.com/92761762/236535841-7be71b0f-29da-455c-bdfa-c1eaf53177dd.mov
+
+
+## How to use it
+- 1. Download the files
+- 2. Make a new 2D unity project
+- 3. Add the files to the assets folder
+- 4. Attach the script to the unity objects
+- 5. Run the simulation
+
  
